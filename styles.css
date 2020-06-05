@@ -1,0 +1,110 @@
+.page .title {
+  text-align: center;
+	vertical-align: middle;
+  font-size: 40px;
+}
+#a {
+	position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	height: 80%;
+	top: 50px;
+}
+#start {
+	position: relative;
+	bottom: 1087px;
+	left: 425px;
+}
+#start:hover {
+	background-color: blue;
+	color: white;
+	box-shadow: 0 10px 14px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.page .nav {
+  background-color: navy;
+  overflow: hidden;
+}
+.page .nav .hi {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.page .nav a:hover {
+  background-color: grey;
+  color: black;
+}
+.page .who {
+  position: relative;
+  top: 30px;
+	font-size: 20px;
+}
+#who1 {
+  position: relative;
+  top: 40px;
+	font-size: 20px;
+}
+#who2 {
+  position: relative;
+  top: 50px;
+	font-size: 20px;
+}
+.page .heading1 {
+	position: relative;
+	bottom: 1135px;
+	left: 170px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+.page .heading2 {
+	position: relative;
+	bottom: 1175px;
+	left: 675px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+.page .heading3 {
+	position: relative;
+	bottom: 1215px;
+	left: 1400px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+.page .heading4 {
+	position: relative;
+	bottom: 1170px;
+	left: 1397px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+.page .works {
+	position: relative;
+	bottom: 1200px;
+	left: 1400px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+#b {
+	position: relative;
+	bottom: 650px;
+	left: 30px;
+}
+.page .bean {
+  position: relative;
+  left: 845px;
+  bottom: 450px;
+}
+.page .arch {
+  position: relative;
+	left: 490px;
+}
+.page .contactinfo {
+	position: relative;
+	bottom: 1155px;
+	left: 1397px;
+	font-size: 16px;
+}
