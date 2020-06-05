@@ -5,12 +5,12 @@ var imageDir = '/Users/imaianabayan/Downloads/Photos (1)/';
 function start() {
   let rotator = document.getElementById('a');
   let delayInSeconds = 1;
-  let dir = "/Users/imaianabayan/Downloads/Photos (1)/";
-  document.getElementById('a').src = "/Users/imaianabayan/Downloads/Photos (1)/5.jpg";
+//   let dir = "/Users/imaianabayan/Downloads/Photos (1)/";
+//   document.getElementById('a').src = "/Users/imaianabayan/Downloads/Photos (1)/5.jpg";
   let num = 0;
   let changeImage = function() {
     let len = piclib.length;
-    rotator.src = dir + piclib[num++];
+    rotator.src = piclib[num++];
     if (num == len) {
       num = 0;
     }
